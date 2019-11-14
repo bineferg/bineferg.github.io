@@ -4,7 +4,7 @@ body{
 }
 
 .title{
-	margin-left:3em;
+	margin-left:3.4em;
 	padding-top: 2em;
 	font-family: courier;
 	font-size: 40px;
@@ -16,6 +16,5 @@ body{
 	margin-right: auto;
 	margin-left:auto;
 	display:block;
-	border:1px solid white;
-	cursor: none;
+	border:1px solid blue;
 }
