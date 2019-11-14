@@ -27,11 +27,10 @@ body{
   margin-top: 1em;
 }
 ul{
-  list-style-type: none;
   margin: 0;
   padding: 0;
 }
-li {
+.listy {
   display: inline;
   margin-left:9em;
 }
@@ -74,3 +73,13 @@ table, th, td {
 	margin-left:auto;
 	display:block;
 }
+
+.list-projects{
+	margin-top: 2em;
+	font-size: 22px;
+	display:block;
+	margin-right: auto;
+	margin-left:auto;
+}
+
+.juce{}
